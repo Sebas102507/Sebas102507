@@ -21,6 +21,6 @@ I'm an AI Engineer and Data Scientist with a passion for building and deploying 
 
 ### 📫 How to reach me:
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30">](https://www.linkedin.com/in/sebastián-vargas-t-9b4a15189)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30">](mailto:libros123bmw@gmail.coM)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30">](https://www.linkedin.com/in/juan-vargas-t-9b4a15189/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJm8D%2FNd9R7uyySThWevSkQ%3D%3D)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30">](mailto:jvargas100d@gmail.com)
 [<img src="https://img.shields.io/badge/Portfolio-25292E?style=for-the-badge&logo=wordpress&logoColor=white" height="30">](https://jsebastianv.com)

@@ -23,4 +23,4 @@ I'm an AI Engineer and Data Scientist with a passion for building and deploying 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30">](https://www.linkedin.com/in/sebastián-vargas-t-9b4a15189)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30">](mailto:libros123bmw@gmail.coM)
-[<img src="https://img.shields.io/badge/Portfolio-25292E?style=for-the-badge&logo=wordpress&logoColor=white" height="30">](https://sebas102507.github.io/me_web_page/)
+[<img src="https://img.shields.io/badge/Portfolio-25292E?style=for-the-badge&logo=wordpress&logoColor=white" height="30">](https://jsebastianv.com)

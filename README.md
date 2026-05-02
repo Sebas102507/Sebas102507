@@ -1,4 +1,4 @@
-### Hi, I'm Sebastián Vargas T. 👋
+### Hi, I'm Juan Vargas T. 👋
 
 I'm an AI Engineer and Data Scientist with a passion for building and deploying end-to-end, data-driven solutions. I have a strong background in both Data Engineering and Machine Learning, with a special focus on **Generative AI**.
 

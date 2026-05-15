@@ -13,7 +13,7 @@ I'm an AI Engineer and Data Scientist with a passion for building and deploying 
 
 | Area | Technologies |
 | :--- | :--- |
-| **GenAI & MLOps** | Python, Langchain, TensorFlow, Scikit-learn, Docker |
+| **GenAI & MLOps** | Python, Langchain, Pytorch, Scikit-learn, Docker |
 | **Cloud & Data** | AWS (SageMaker, Bedrock), Azure (Databricks, Synapse), SQL, Spark |
 | **BI & Viz** | Power BI, Dash, Matplotlib |
 
